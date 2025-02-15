@@ -3,7 +3,8 @@
 
 
 ## Contents
-	- [JavaScript tools](#javascript-tools)
+
+- [JavaScript tools](#javascript-tools)
 		- [Charting libraries](#charting-libraries)
 		- [Charting libraries for graphs](#charting-libraries-for-graphs)
 		- [Maps](#maps)
